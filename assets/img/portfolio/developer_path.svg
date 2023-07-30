@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="OBJECTS" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 142.93 136.69">
+  <rect x="10.46" y="8.1" width="124" height="64" rx="8.59" ry="8.59" fill="#a8d0ed"/>
+  <g>
+    <text transform="translate(0 59.7)" fill="#24242e" font-family="Montserrat-Light, &apos;Montserrat Light&apos;" font-size="71.32" font-weight="300"><tspan x="0" y="0">{</tspan></text>
+    <text transform="translate(122.67 59.7)" fill="#24242e" font-family="Montserrat-Light, &apos;Montserrat Light&apos;" font-size="71.32" font-weight="300"><tspan x="0" y="0">}</tspan></text>
+  </g>
+  <g>
+    <g>
+      <line x1="27.85" y1="21.87" x2="80.79" y2="21.87" fill="none" stroke="#24242e" stroke-miterlimit="10" stroke-width="2.85"/>
+      <line x1="95.03" y1="21.87" x2="115.08" y2="21.87" fill="none" stroke="#24242e" stroke-miterlimit="10" stroke-width="2.85"/>
+    </g>
+    <g>
+      <line x1="115.08" y1="41.54" x2="62.14" y2="41.54" fill="none" stroke="#24242e" stroke-miterlimit="10" stroke-width="2.85"/>
+      <line x1="47.89" y1="41.54" x2="27.85" y2="41.54" fill="none" stroke="#24242e" stroke-miterlimit="10" stroke-width="2.85"/>
+    </g>
+    <g>
+      <line x1="27.85" y1="61.22" x2="80.79" y2="61.22" fill="none" stroke="#24242e" stroke-miterlimit="10" stroke-width="2.85"/>
+      <line x1="95.03" y1="61.22" x2="115.08" y2="61.22" fill="none" stroke="#24242e" stroke-miterlimit="10" stroke-width="2.85"/>
+    </g>
+  </g>
+  <path d="m133.24,135.25H9.68c-4.09,0-7.08-3.8-6.02-7.68l1.28-4.68c-.68,3.69,2.17,7.18,6.01,7.18h121.03c3.84,0,6.69-3.49,6.01-7.18l1.28,4.68c1.06,3.88-1.93,7.68-6.03,7.68Z" fill="#24242e" stroke="#24242e" stroke-miterlimit="10" stroke-width="2.88"/>
+  <line x1="71.53" y1="122.39" x2="71.39" y2="122.89" fill="none" stroke="#24242e" stroke-miterlimit="10" stroke-width="2.88"/>
+  <line x1="71.53" y1="122.89" x2="71.39" y2="122.39" fill="none" stroke="#24242e" stroke-miterlimit="10" stroke-width="2.88"/>
+  <path d="m131.98,130.07H10.95c-3.84,0-6.69-3.49-6.01-7.18.03-.17.07-.33.11-.5l11.24-42.01c.57-2.15,2.51-3.63,4.73-3.63h100.89c2.22,0,4.16,1.48,4.73,3.63l11.24,42.01c.04.17.08.33.11.5.68,3.69-2.17,7.18-6.01,7.18Z" fill="#c0b9ba" stroke="#24242e" stroke-miterlimit="10" stroke-width="2.85"/>
+  <path d="m120.41,101.98H22.51c-1.9,0-3.3-1.77-2.86-3.62l2.88-12.14c.31-1.33,1.5-2.26,2.86-2.26h92.08c1.36,0,2.54.93,2.86,2.25l2.94,12.14c.45,1.85-.95,3.64-2.86,3.64Z" fill="#7a7e77" stroke="#24242e" stroke-miterlimit="10" stroke-width="2.85"/>
+  <path d="m89.89,122.5h-36.85c-1.46,0-2.59-1.29-2.39-2.74l1.22-8.81c.17-1.19,1.18-2.08,2.39-2.08h34.37c1.2,0,2.21.88,2.38,2.07l1.26,8.81c.21,1.45-.92,2.75-2.38,2.75Z" fill="#7a7e77" stroke="#24242e" stroke-miterlimit="10" stroke-width="2.85"/>
+</svg>
