@@ -3,7 +3,7 @@ otpauth://totp/Twitter:%40abooal9dh?secret=LPOZNJFJIVJ7AUH6&issuer=Twitter
 otpauth://totp/Google:abooal9dh%40gmail.com?secret=6dgirh72jxmxcvo2zyfvs2vuhlcahl4l&issuer=Google
 otpauth://totp/Amazon:abooal9dh%40gmail.com?secret=HQC4FP7RGNQI5CMTXL3I4OE6R7RJTEWKB73QHSDSZ2CN6TH3B23A&issuer=Amazon
 otpauth://totp/admin%40adoring-allen.23-88-3-245.plesk.page?secret=EI75J5GKJBEOHT6U
-otpauth://totp/GitHub:abooal9dh?secret=H2BSS3VS6AQYGK5U&issuer=GitHub
+otpauth://totp/GitHub:abooal9dh?secret=W4NGYLBFLNXK5LU2&issuer=GitHub
 2538537826
 541844622
 582250378
