@@ -9,6 +9,7 @@ otpauth://totp/Microsoft:abooal9dh%40hotmail.com?secret=EIRBB73YOEG3FDXY&issuer=
 otpauth://totp/Microsoft:abooal9dh%40outlook.com?secret=QWHDW4NRJ45XRALW&issuer=Microsoft
 otpauth://totp/Reddit:abooal9dh?secret=ZNRUOKTKM7WUNGXRHGZ2FLIB6H4B2D5X&issuer=Reddit
 otpauth://totp/Discord:abooal9dh%40gmail.com?secret=ZBFN47AY5J4YSNDJZVHKCXW6UGWPOUDP&issuer=Discord
+otpauth://totp/Namecheap:aBooal9DH?secret=QEYNQWPA6H2XNMKN2Y5PH7AIYIGB3WAX&issuer=Namecheap
 2538537826
 541844622
 582250378
