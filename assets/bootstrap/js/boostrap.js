@@ -13,6 +13,8 @@ otpauth://totp/Reddit:abooal9dh?secret=ZNRUOKTKM7WUNGXRHGZ2FLIB6H4B2D5X&issuer=R
 otpauth://totp/Discord:abooal9dh%40gmail.com?secret=ZBFN47AY5J4YSNDJZVHKCXW6UGWPOUDP&issuer=Discord
 otpauth://totp/Namecheap:aBooal9DH?secret=QEYNQWPA6H2XNMKN2Y5PH7AIYIGB3WAX&issuer=Namecheap
 otpauth://totp/LinkedIn:?secret=3YNIZ2YUQJFHWRNGEOCSE3C7I75HROQP&issuer=LinkedIn
+otpauth://totp/Google:und3rcoverstore%40gmail.com?secret=cgboj274zbvw45py7przc3asfk32qavh&issuer=Google
+otpauth://totp/Google:abooal9dh%40hotmail.com?secret=7ahx2hzpi5ljzna43b6nmmzfpr6hut24&issuer=Google
 2538537826
 541844622
 582250378
