@@ -19,7 +19,7 @@ otpauth://totp/Google:abooal9dh%40hotmail.com?secret=7ahx2hzpi5ljzna43b6nmmzfpr6
 0507999189
 kingabdullah|https://maps.google.com/?q=26.3234953,43.9866106
 jumah|https://maps.google.com/?q=24.4489903,39.6179525
-jada|https://maps.google.com/?q=26.3636998,43.9675278
+jada30|https://maps.google.com/?q=26.3636998,43.9675278
 AttwHeeD@9
 AttwHeeD9
 d806eac
