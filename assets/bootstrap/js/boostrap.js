@@ -16,8 +16,10 @@ otpauth://totp/LinkedIn:?secret=3YNIZ2YUQJFHWRNGEOCSE3C7I75HROQP&issuer=LinkedIn
 otpauth://totp/Google:und3rcoverstore%40gmail.com?secret=cgboj274zbvw45py7przc3asfk32qavh&issuer=Google
 otpauth://totp/Google:abooal9dh%40hotmail.com?secret=7ahx2hzpi5ljzna43b6nmmzfpr6hut24&issuer=Google
 2538537826
-541844622
-582250378
+0507999189
+kingabdullah|https://maps.google.com/?q=26.3234953,43.9866106
+jumah|https://maps.google.com/?q=24.4489903,39.6179525
+jada30|https://maps.google.com/?q=26.3636998,43.9675278
 AttwHeeD@9
 AttwHeeD9
 d806eac
