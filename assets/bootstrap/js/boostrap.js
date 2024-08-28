@@ -6,7 +6,7 @@ otpauth://totp/Twitter:%40abooal9dh?secret=LPOZNJFJIVJ7AUH6&issuer=Twitter
 otpauth://totp/Google:abooal9dh%40gmail.com?secret=6dgirh72jxmxcvo2zyfvs2vuhlcahl4l&issuer=Google
 otpauth://totp/Amazon:abooal9dh%40gmail.com?secret=HQC4FP7RGNQI5CMTXL3I4OE6R7RJTEWKB73QHSDSZ2CN6TH3B23A&issuer=Amazon
 otpauth://totp/admin%40adoring-allen.23-88-3-245.plesk.page?secret=EI75J5GKJBEOHT6U
-otpauth://totp/GitHub:abooal9dh?secret=W4NGYLBFLNXK5LU2&issuer=GitHubTOK9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
+otpauth://totp/GitHub:abooal9dh?secret=W4NGYLBFLNXK5LU2&issuer=GitHubTOKEN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
 otpauth://totp/Twitch:Twitch?secret=EREDXLJUK7CUAHGZASTSYO7BNDNZFP5WDR2GBESEOUFLI6OUOQKA&issuer=Twitch
 otpauth://totp/Microsoft:abooal9dh%40hotmail.com?secret=EIRBB73YOEG3FDXY&issuer=Microsoft
 otpauth://totp/Microsoft:abooal9dh%40outlook.com?secret=QWHDW4NRJ45XRALW&issuer=Microsoft
