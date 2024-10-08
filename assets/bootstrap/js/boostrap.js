@@ -15,6 +15,8 @@ otpauth://totp/Discord:abooal9dh%40gmail.com?secret=ZBFN47AY5J4YSNDJZVHKCXW6UGWP
 otpauth://totp/LinkedIn:?secret=3YNIZ2YUQJFHWRNGEOCSE3C7I75HROQP&issuer=LinkedIn
 otpauth://totp/Google:und3rcoverstore%40gmail.com?secret=cgboj274zbvw45py7przc3asfk32qavh&issuer=Google
 otpauth://totp/Google:abooal9dh%40hotmail.com?secret=7ahx2hzpi5ljzna43b6nmmzfpr6hut24&issuer=Google
+=================================================================================
+otpauth://totp/Namecheap:panoramaq?secret=CWR5PD7LKQ7DFKXLGHRHF6WASSGLKH3H&issuer=Namecheap
 2538537826
 0507999189 
 kingabdulaziz|26°21'19.8"N 43°57'14.1"E 
